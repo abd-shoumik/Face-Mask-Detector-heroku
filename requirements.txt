@@ -1,5 +1,5 @@
 absl-py==0.9.0
-guinicorn
+gunicorn
 astor==0.8.1
 click==7.1.2
 Flask==1.1.2
