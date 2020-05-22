@@ -1,4 +1,5 @@
 absl-py==0.9.0
+guinicorn
 astor==0.8.1
 click==7.1.2
 Flask==1.1.2
@@ -17,7 +18,6 @@ MarkupSafe==1.1.1
 numpy==1.18.4
 opencv-python==4.2.0.34
 Pillow==7.1.2
-pkg-resources==0.0.0
 protobuf==3.12.0
 PyYAML==5.3.1
 scipy==1.4.1
